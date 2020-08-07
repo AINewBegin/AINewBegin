@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/AINewBegin/AINewBegin/blob/master/dino.gif)
 
 <!--
 **AINewBegin/AINewBegin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
